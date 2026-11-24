@@ -1,21 +1,21 @@
-# Hi, I'm Yusuf 👋
+<h1 align="center">Hi, I'm Yusuf 👋</h1>
 
-```bash
-$ whoami
-yusuf · computer engineering student · blue team in progress
+<p align="center">
+  <img src="assets/terminal.svg" width="560" alt="Terminal. whoami: yusuf, computer engineering student, blue team in progress. Goal: SOC / network security internship. Roadmap: [x] CTF write-ups (TSGK 4th CTF, picoCTF); [~] Cisco CCNA; [ ] Packet capture analysis report; [ ] Home lab: Wazuh + attack simulation; [ ] Writing my own detection rules.">
+</p>
 
-$ cat goal.txt
-SOC / network security internship
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
-$ cat roadmap.txt
-[x] CTF write-ups (TSGK 4th CTF, picoCTF)
-[~] Cisco CCNA
-[ ] Packet capture analysis report
-[ ] Home lab: Wazuh + attack simulation
-[ ] Writing my own detection rules
-```
+<p align="center">
+  <a href="https://linkedin.com/in/canndalcii"><b>LinkedIn</b></a> · <a href="https://medium.com/@dalciyusuf"><b>Medium</b></a>
+</p>
 
-## 🚩 `ls ctf/`
+## 🚩 CTF write-ups
 
 | Event | Categories | Write-up |
 | --- | --- | --- |
@@ -23,7 +23,9 @@ $ cat roadmap.txt
 | picoCTF: RED | Steganography (LSB, zsteg) | [Medium (TR)](https://medium.com/@dalciyusuf/red-picoctf-tr-1aa4e317420b) |
 | picoCTF: CanYouSee | Forensics (exiftool metadata) | [Medium (TR)](https://medium.com/@dalciyusuf/canyousee-picoctf-dd3951eafc79) |
 
-## ✍️ `tail medium.log`
+**CTF toolkit:** exiftool · steghide · zsteg · John the Ripper
+
+## ✍️ Latest on Medium
 
 Latest posts on [Medium](https://medium.com/@dalciyusuf) (in Turkish):
 
@@ -35,27 +37,14 @@ Latest posts on [Medium](https://medium.com/@dalciyusuf) (in Turkish):
 - [Bir Casino, Balık Tankı Yüzünden Soyuldu](https://medium.com/@dalciyusuf/bir-casino-bal%C4%B1k-tank%C4%B1-y%C3%BCz%C3%BCnden-soyuldu-86c5f046a5bf)
 <!-- BLOG-POST-LIST:END -->
 
-## 🔦 `ls projects/`
+## 🔦 Projects
 
 **[Driver assistant](https://github.com/dalciyusuf/Driver_Assistant_Project)** · Python · course project
 
 A CNN traffic sign classifier (43 classes) combined with YOLOv8 pedestrian and vehicle detection, with driver warnings.
 
-## 📜 `cat certs.txt`
+## 📜 Certificates
 
 - Cisco: Introduction to Cybersecurity
 - BTK Akademi: Kali Linux
 - BTK Akademi: Introduction to Cybersecurity
-
-## 🧰 `which tools`
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**CTF toolkit:** exiftool · steghide · zsteg · John the Ripper
-
-## 📫 `ping yusuf`
-
-[LinkedIn](https://linkedin.com/in/canndalcii) · [Medium](https://medium.com/@dalciyusuf)
