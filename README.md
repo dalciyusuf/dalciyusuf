@@ -1,31 +1,50 @@
-# Hi, I'm Yusuf
+# Hi, I'm Yusuf 👋
 
-Final-year Computer Engineering student at Karabük University (English track).
-Looking for a SOC / network security internship.
+**Computer Engineering student working toward a blue-team career.** Looking for a SOC / network security internship.
 
-## Now
+## 🧭 About
 
-- Studying for Cisco CCNA
+- 🎯 **Goal:** SOC / network security roles
+- 🌱 **Learning now:** Cisco CCNA
+- 🚩 **Practice:** CTF challenges, written up step by step on Medium
+- 🎓 **Karabük University**, Computer Engineering (English track), final year
+- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/canndalcii) · [Medium](https://medium.com/@dalciyusuf)
 
-## CTF write-ups
+## 🚩 CTF write-ups
 
-- **Türkiye Siber Güvenlik Kümelenmesi 4th CTF** (Jan 2026): cryptography, steganography, forensics and password cracking challenges. [Write-up (Turkish)](https://medium.com/@dalciyusuf/siber-g%C3%BCvenlik-k%C3%BCmelenmesi-4-ctf-yar%C4%B1%C5%9Fmas%C4%B1-ee98988c556f) · [Challenge files](https://github.com/dalciyusuf/2026_TSGK_4_CTF)
-- **picoCTF**: [RED](https://medium.com/@dalciyusuf/red-picoctf-tr-1aa4e317420b) and [CanYouSee](https://medium.com/@dalciyusuf/canyousee-picoctf-dd3951eafc79), image forensics and steganography (Turkish)
+| Event | Categories | Write-up |
+| --- | --- | --- |
+| Türkiye Siber Güvenlik Kümelenmesi 4th CTF (Jan 2026) | Cryptography · steganography · forensics · password cracking | [Medium (TR)](https://medium.com/@dalciyusuf/siber-g%C3%BCvenlik-k%C3%BCmelenmesi-4-ctf-yar%C4%B1%C5%9Fmas%C4%B1-ee98988c556f) · [files](https://github.com/dalciyusuf/2026_TSGK_4_CTF) |
+| picoCTF: RED | Steganography (LSB, zsteg) | [Medium (TR)](https://medium.com/@dalciyusuf/red-picoctf-tr-1aa4e317420b) |
+| picoCTF: CanYouSee | Forensics (exiftool metadata) | [Medium (TR)](https://medium.com/@dalciyusuf/canyousee-picoctf-dd3951eafc79) |
 
-## Writing
+## ✍️ Writing
 
-Security case articles on [Medium](https://medium.com/@dalciyusuf), in Turkish: the xz-utils backdoor, Pegasus zero-click attacks, post-quantum cryptography.
+Security case articles on [Medium](https://medium.com/@dalciyusuf), in Turkish:
 
-## Projects
+- 🔓 The xz-utils backdoor and the fragile base of open source
+- 📱 Pegasus and zero-click attacks
+- 🔐 Post-quantum cryptography: how close is Q-Day?
+- 🎰 The casino that was breached through a fish tank
+- 🎧 Stealing keys by listening to a computer
 
-- **[Driver assistant](https://github.com/dalciyusuf/Driver_Assistant_Project)** (course project): a CNN traffic sign classifier combined with YOLOv8 pedestrian and vehicle detection.
+## 🔦 Projects
 
-## Certificates
+**[Driver assistant](https://github.com/dalciyusuf/Driver_Assistant_Project)** · Python · course project
+
+A CNN traffic sign classifier (43 classes) combined with YOLOv8 pedestrian and vehicle detection, with prioritised warnings.
+
+## 📜 Certifications
 
 - Cisco: Introduction to Cybersecurity
 - BTK Akademi: Kali Linux
 - BTK Akademi: Introduction to Cybersecurity
 
-## Contact
+## 🧰 Tools & tech
 
-[LinkedIn](https://linkedin.com/in/canndalcii) · [Medium](https://medium.com/@dalciyusuf)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**CTF toolkit:** exiftool · steghide · zsteg · John the Ripper
