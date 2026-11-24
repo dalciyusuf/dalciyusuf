@@ -24,3 +24,5 @@ jobs:
           item_exec: "post.url = post.url.split('?')[0];"
           commit_message: "docs: Medium yazı listesi güncellendi"
           dummy_commit_message: "chore: depo etkin tutuldu"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898283+github-actions[bot]@users.noreply.github.com"
